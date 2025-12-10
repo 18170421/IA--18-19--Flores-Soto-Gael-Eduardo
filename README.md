@@ -2,7 +2,7 @@
 
 *Alumno 1:* Flores Soto Gael Eduardo  
 *Alumno 2:* Jesus Maximiliano Peña Reatiga  
-*Numero de Control:* 20170661
+*Numero de Control:* 20170661 - 18170421
 ---
 
 ## Índice
